@@ -1,0 +1,3 @@
+import Example
+
+Example.hello()

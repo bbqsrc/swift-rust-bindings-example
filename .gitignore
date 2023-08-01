@@ -1,0 +1,9 @@
+/target
+/Cargo.lock
+aarch64-*/
+x86_64-*/
+ios-*/
+macos-*/
+*.xcframework/
+dist/
+example
